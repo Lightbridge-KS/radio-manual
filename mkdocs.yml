@@ -1,6 +1,6 @@
 site_name: LB Radiology Manual
-site_url: https://mkdocs-material-test-lightbridge.netlify.app
-repo_url: https://github.com/Lightbridge-KS/mkdocs-material-test
+site_url: https://radio-manual-lightbridge.netlify.app
+repo_url: https://github.com/Lightbridge-KS/radio-manual
 nav:
   - Home: "index.md"
   - Quick Ref:

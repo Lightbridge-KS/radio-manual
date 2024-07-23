@@ -11,7 +11,7 @@
   status = 200
 
 [context.production]
-  environment = { DEPLOY_PRIME_URL = "https://mkdocs-material-test-lightbridge.netlify.app" }
+  environment = { DEPLOY_PRIME_URL = "https://radio-manual-lightbridge.netlify.app" }
 
 [context.deploy-preview]
   command = "mkdocs build --site-dir=site"
