@@ -174,6 +174,18 @@
   },
   "active": "6bf0c6133bb7b5f6",
   "lastOpenFiles": [
+    "site/search/search_index.json",
+    "site/search",
+    "site/q/q_vas/index.html",
+    "site/q/q_abdo/index.html",
+    "site/q/q_vas",
+    "site/q/q_abdo",
+    "site/q",
+    "site/index.html",
+    "site/404.html",
+    "site/assets/javascripts/lunr/min/lunr.zh.min.js",
+    "site/assets/javascripts/lunr/min/lunr.vi.min.js",
+    "site/assets/images/favicon.png",
     "docs/q/q_abdo.md",
     "docs/q/q_vas.md",
     "docs/index.md"
