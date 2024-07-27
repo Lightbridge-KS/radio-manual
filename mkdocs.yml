@@ -8,6 +8,9 @@ nav:
     - Vascular: "q/q_vas.md"
 theme:
   name: material
+  font:
+    text: Inter
+    code: Fira Mono
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
